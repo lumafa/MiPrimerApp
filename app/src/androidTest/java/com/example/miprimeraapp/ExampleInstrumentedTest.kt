@@ -1,3 +1,6 @@
+import org.junit.runner.RunWith
+import androidx.test.ext.junit.runners.AndroidJUnit4
+
 package com.example.miprimeraapp
 
 import androidx.test.platform.app.InstrumentationRegistry
