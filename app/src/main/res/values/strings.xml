@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MiPrimeraApp</string>
+    <string name="saludo">Hola apreciada instructora Nelly Me alegra saludarla </string>
 </resources>
